@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "UpdateFramerate"
+version = "1.0.0"
+name = "Update Framerate"
+tagline = "Updates start and end frames and time stretching to match the updated FPS values"
+maintainer = "rekyuu"
+
+type = "add-on"
+
+blender_version_min = "5.2.0"
+
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
